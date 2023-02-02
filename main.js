@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/VnCA-6iek/
